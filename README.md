@@ -2,7 +2,7 @@
 
 Tarea 3 – Procesamiento de Datos con Apache Spark
 Curso: Big Data (código 202016911) – Universidad Nacional Abierta y a Distancia (UNAD)
-Autor: [tu nombre completo]
+Autor: [TU NOMBRE COMPLETO]
 
 ## Descripción del problema
 
@@ -39,8 +39,8 @@ El archivo **no se incluye en este repositorio** por su tamaño. Hay que descarg
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/[tu-usuario]/[nombre-del-repo].git
-cd [nombre-del-repo]
+git clone https://github.com/ted12478/covid-colombia-spark.git
+cd covid-colombia-spark
 
 # 2. Instalar las librerías de Python
 pip install pandas matplotlib
