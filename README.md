@@ -2,7 +2,8 @@
 
 Tarea 3 – Procesamiento de Datos con Apache Spark
 Curso: Big Data (código 202016911) – Universidad Nacional Abierta y a Distancia (UNAD)
-Autor: [TU NOMBRE COMPLETO]
+Grupo: 202016911_21
+Autor: Teddys Stevan Jimenez Julio
 
 ## Descripción del problema
 
