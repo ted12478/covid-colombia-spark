@@ -1,0 +1,3 @@
+pandas
+matplotlib
+pyspark==3.5.3

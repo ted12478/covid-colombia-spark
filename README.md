@@ -34,7 +34,7 @@ El archivo **no se incluye en este repositorio** por su tamaño. Hay que descarg
 - Java 11
 - Python 3.10
 - Apache Spark 3.5.3
-- Librerías de Python: `pandas` y `matplotlib`
+- Librerías de Python listadas en `requirements.txt` (`pandas`, `matplotlib` y `pyspark`)
 
 ## Instrucciones de ejecución
 
@@ -44,7 +44,7 @@ git clone https://github.com/ted12478/covid-colombia-spark.git
 cd covid-colombia-spark
 
 # 2. Instalar las librerías de Python
-pip install pandas matplotlib
+pip install -r requirements.txt
 
 # 3. Descargar el dataset en la carpeta datos/
 mkdir -p datos resultados
@@ -81,6 +81,7 @@ La letalidad aumenta con la edad: pasa de cerca del 0,1 % en menores de 10 años
 .
 ├── analisis_covid.py
 ├── README.md
+├── requirements.txt
 ├── .gitignore
 ├── datos/        (vacía; aquí se descarga el CSV)
 └── resultados/   (gráficas y resumen generados)
