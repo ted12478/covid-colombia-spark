@@ -1,0 +1,4 @@
+datos/*.csv
+datos/covid_limpio/
+__pycache__/
+*.pyc

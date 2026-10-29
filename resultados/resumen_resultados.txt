@@ -1,0 +1,28 @@
+Filas del archivo original: 6390971
+Filas despues de la limpieza: 6390955
+Total de fallecidos: 143123
+
+Top 10 departamentos:
+departamento   count
+      BOGOTA 1888134
+   ANTIOQUIA  955267
+       VALLE  572721
+CUNDINAMARCA  331335
+   SANTANDER  297531
+BARRANQUILLA  277988
+   CARTAGENA  163526
+   ATLANTICO  141072
+      BOYACA  131133
+      TOLIMA  127765
+
+Por grupo de edad:
+rango   casos  fallecidos  letalidad_pct
+  0-9  250070         247       0.098772
+10-19  459434         226       0.049191
+20-29 1318733        1660       0.125878
+30-39 1410842        4662       0.330441
+40-49 1072036       10268       0.957804
+50-59  863465       20388       2.361184
+60-69  558515       32252       5.774599
+70-79  286191       35227      12.308913
+  80+  171669       38193      22.248047
